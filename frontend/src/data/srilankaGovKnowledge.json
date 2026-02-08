@@ -1,0 +1,294 @@
+[
+  {
+    "category": "NIC / National Identity Card",
+    "keywords": ["nic", "national identity card", "id card", "identity", "nic number", "smart card"],
+    "qa": [
+      {
+        "q": "How to apply for a NIC?",
+        "a": "Visit your nearest Divisional Secretariat (DS) office with: birth certificate, 2 passport-sized photos, and the completed B form. First-time applicants must be 16+. Processing takes about 2-4 weeks. You can also apply online at https://www.nic.lk."
+      },
+      {
+        "q": "How to get a replacement NIC?",
+        "a": "If your NIC is lost or damaged, visit the Divisional Secretariat with a police report (for lost cards), 2 photos, and the H form. A fee of LKR 500-1000 applies for replacements."
+      },
+      {
+        "q": "What is the new smart NIC?",
+        "a": "Sri Lanka introduced the smart NIC (electronic ID) which is a chip-based card. It replaces the old laminated NIC. The smart NIC contains biometric data. Apply at www.nic.lk or at any Divisional Secretariat."
+      }
+    ]
+  },
+  {
+    "category": "Passport",
+    "keywords": ["passport", "travel document", "immigration", "passport renewal", "passport application"],
+    "qa": [
+      {
+        "q": "How to apply for a passport?",
+        "a": "Apply at the Department of Immigration and Emigration, Colombo, or online at www.immigration.gov.lk. Required documents: NIC, birth certificate, completed application form, 2 photos (3.5cm x 4.5cm). Normal processing: 10 working days (LKR 3,500). One-day service: LKR 10,000."
+      },
+      {
+        "q": "How to renew a passport?",
+        "a": "Submit the old passport, NIC copy, 2 photos, and the renewal application form to the Department of Immigration and Emigration. You can apply online at www.immigration.gov.lk. Fees: Normal (LKR 3,500, 10 days), Urgent (LKR 10,000, 1 day)."
+      },
+      {
+        "q": "What is the passport office address?",
+        "a": "Department of Immigration and Emigration, No. 41, Ananda Rajakaruna Mawatha, Colombo 10, Sri Lanka. Tel: +94 11 5329 000. Website: www.immigration.gov.lk. Regional offices in Kandy, Matara, and Vavuniya."
+      }
+    ]
+  },
+  {
+    "category": "Birth Certificate",
+    "keywords": ["birth certificate", "birth registration", "birth", "registrar"],
+    "qa": [
+      {
+        "q": "How to get a birth certificate?",
+        "a": "Birth certificates are issued by the Registrar General's Department. For new registrations, report to the local Registrar within 42 days of birth. Required: hospital notification, parents' NICs and marriage certificate. Late registration requires a Divisional Secretariat declaration."
+      },
+      {
+        "q": "How to get a copy of a birth certificate?",
+        "a": "Apply at the Registrar General's Department, No. 234/A3, Denzil Kobbekaduwa Mawatha, Colombo 07 or at the District Registrar's office. Provide: registration number, date, and district. Fee: LKR 100-200. Can also apply online at www.rgd.gov.lk."
+      }
+    ]
+  },
+  {
+    "category": "Marriage Registration",
+    "keywords": ["marriage", "marriage certificate", "wedding", "registrar", "marriage registration"],
+    "qa": [
+      {
+        "q": "How to register a marriage?",
+        "a": "Marriages can be registered under the Marriage Registration Ordinance at the local Registrar's office. Both parties must be 18+. Required: NICs, birth certificates, and 2 witnesses. Notice of 14 days must be given. Fee: LKR 200-500."
+      },
+      {
+        "q": "How to get a marriage certificate copy?",
+        "a": "Apply to the Registrar General's Department or the District Registrar where the marriage was registered. Provide: date and place of marriage, registration number. Fee: LKR 100-200."
+      }
+    ]
+  },
+  {
+    "category": "Driving License",
+    "keywords": ["driving license", "licence", "drive", "motor traffic", "rda", "vehicle license"],
+    "qa": [
+      {
+        "q": "How to get a driving license?",
+        "a": "Apply at the Department of Motor Traffic (DMT). Steps: 1) Get a learner's permit (written test at DMT, fee LKR 500). 2) Practice for 3 months. 3) Take the practical driving test. 4) Receive your license. Required: NIC, medical certificate, 2 photos. Address: No. 341, Elvitigala Mawatha, Colombo 05. Website: www.motortraffic.gov.lk."
+      },
+      {
+        "q": "How to renew a driving license?",
+        "a": "Visit DMT or any District Secretariat with: old license, NIC, medical certificate (for those 60+), and 1 photo. Renewal fee: LKR 500-1,000. Can be done online at www.motortraffic.gov.lk."
+      },
+      {
+        "q": "How to get an international driving permit?",
+        "a": "Apply at the Automobile Association of Ceylon (AAC), No. 40, Sir Mohamed Macan Mawatha, Colombo 03. Required: valid Sri Lankan driving license, passport copy, 2 photos, NIC. Fee: approximately LKR 3,000. Valid for 1 year."
+      }
+    ]
+  },
+  {
+    "category": "Taxes",
+    "keywords": ["tax", "income tax", "vat", "ird", "inland revenue", "paye", "tax return"],
+    "qa": [
+      {
+        "q": "How to file income tax?",
+        "a": "File with the Inland Revenue Department (IRD) online at www.ird.gov.lk. The tax year runs from April 1 to March 31. Tax slabs (2024/25): First LKR 1.2M exempt, then 6%-36% in progressive brackets. Deadline: November 30 for individuals. Required: TIN (Taxpayer Identification Number), income statements, bank statements."
+      },
+      {
+        "q": "How to get a TIN number?",
+        "a": "Apply for a Taxpayer Identification Number at the Inland Revenue Department, Sir Chittampalam A Gardiner Mawatha, Colombo 02. Required: NIC, proof of income/employment. Can also register online at www.ird.gov.lk. Tel: +94 11 2143 700."
+      },
+      {
+        "q": "What is VAT in Sri Lanka?",
+        "a": "VAT (Value Added Tax) is currently 18% on most goods and services. Businesses with annual turnover exceeding LKR 80 million must register for VAT. Registration at the Inland Revenue Department."
+      }
+    ]
+  },
+  {
+    "category": "Government Structure",
+    "keywords": ["president", "parliament", "prime minister", "government", "ministry", "cabinet", "election"],
+    "qa": [
+      {
+        "q": "What is the government structure of Sri Lanka?",
+        "a": "Sri Lanka is a democratic republic with an executive presidency. The President is Head of State and Government. Parliament has 225 members elected for 5-year terms. The Prime Minister leads Parliament. There are 9 Provinces each with a Provincial Council. District Secretariats and Divisional Secretariats handle local administration."
+      },
+      {
+        "q": "How many provinces are there?",
+        "a": "Sri Lanka has 9 provinces: Western, Central, Southern, Northern, Eastern, North Western, North Central, Uva, and Sabaragamuwa. Each has a Provincial Council headed by a Chief Minister and a Governor appointed by the President."
+      },
+      {
+        "q": "How many districts are there in Sri Lanka?",
+        "a": "Sri Lanka has 25 districts across 9 provinces. Each district is administered by a District Secretary (Government Agent). Districts are further divided into Divisional Secretariat divisions (DS divisions), totaling around 331."
+      }
+    ]
+  },
+  {
+    "category": "Divisional Secretariat",
+    "keywords": ["divisional secretariat", "ds office", "grama niladhari", "gn", "ds division", "divisional secretary"],
+    "qa": [
+      {
+        "q": "What does a Divisional Secretariat do?",
+        "a": "The Divisional Secretariat (DS office) is the primary government service point at the local level. Services include: NIC applications, birth/death/marriage registrations, land-related services, Samurdhi benefits, pensions, housing assistance, and issuing various certificates. There are about 331 DS offices across Sri Lanka."
+      },
+      {
+        "q": "What is a Grama Niladhari?",
+        "a": "The Grama Niladhari (GN) is the village-level government officer responsible for civil registration, issuing character certificates, certifying residency, and acting as a link between citizens and the Divisional Secretariat. Each GN division covers a small area with a few hundred to a thousand households."
+      }
+    ]
+  },
+  {
+    "category": "Land and Property",
+    "keywords": ["land", "deed", "property", "land registry", "survey", "title", "land registration"],
+    "qa": [
+      {
+        "q": "How to register a land deed?",
+        "a": "Land deeds are registered at the Land Registry office in the relevant district. Required: original deed, survey plan, NIC copies of buyer and seller, stamp duty payment (currently 4% of the property value). Process is handled by a notary public. Time: 2-4 weeks."
+      },
+      {
+        "q": "How to get a survey plan?",
+        "a": "Apply to the Survey Department of Sri Lanka, No. 150, Kirula Road, Colombo 05. A licensed surveyor will visit and survey the land. Fee depends on land size. Website: www.survey.gov.lk. Tel: +94 11 2368 061."
+      },
+      {
+        "q": "How to search land ownership?",
+        "a": "Search at the Land Registry in the relevant district. Provide: lot number, plan number, and location. Fee: LKR 50-100 per search. The Registrar General's Department maintains all deed records."
+      }
+    ]
+  },
+  {
+    "category": "Police and Law",
+    "keywords": ["police", "police report", "complaint", "crime", "law", "legal", "court", "fine"],
+    "qa": [
+      {
+        "q": "How to file a police complaint?",
+        "a": "Visit the nearest police station and report the incident to the OIC (Officer-in-Charge). You will receive a complaint reference number. For emergencies, call 119 (Police Emergency) or 118 (Government Information Center). You can also file complaints online at www.police.lk."
+      },
+      {
+        "q": "How to get a police clearance report?",
+        "a": "Apply at the Criminal Records Division, Police Headquarters, Colombo 01, or at www.police.lk. Required: NIC, fingerprints (taken at the nearest police station), 1 photo. Fee: LKR 500. Processing time: 2-4 weeks. For urgent processing (visa purposes): additional fee."
+      },
+      {
+        "q": "What is the emergency number in Sri Lanka?",
+        "a": "Emergency numbers: 119 (Police), 110 (Fire and Ambulance), 1990 (Suwa Seriya Ambulance), 118 (Government Information Center), 1919 (Election complaints). Toll-free from any phone."
+      }
+    ]
+  },
+  {
+    "category": "Education",
+    "keywords": ["education", "school", "university", "ugc", "o/l", "a/l", "exam", "scholarship"],
+    "qa": [
+      {
+        "q": "How does the education system work?",
+        "a": "Sri Lanka has free education from primary to university. Structure: Primary (Grade 1-5), Junior Secondary (Grade 6-9), Senior Secondary (Grade 10-11 leading to O/L exam), Collegiate (Grade 12-13, A/L exam). University admission is based on A/L results through the UGC (University Grants Commission). There are 17 national universities."
+      },
+      {
+        "q": "How to apply for university?",
+        "a": "After A/L results, apply through the UGC (University Grants Commission) online at www.ugc.ac.lk. Admission is based on Z-scores calculated from A/L results. District quotas apply. Required: A/L results, NIC, application form. Website: www.ugc.ac.lk."
+      },
+      {
+        "q": "What are the government scholarships?",
+        "a": "Key scholarships: Mahapola Scholarship (LKR 5,000/month for university students), President's Fund scholarships, Divisional Secretariat bursaries for O/L and A/L students, and foreign scholarships through the Ministry of Education. Apply through respective departments."
+      }
+    ]
+  },
+  {
+    "category": "Health Services",
+    "keywords": ["health", "hospital", "doctor", "medical", "health card", "opd", "clinic"],
+    "qa": [
+      {
+        "q": "How does public healthcare work?",
+        "a": "Sri Lanka provides free public healthcare. Visit any government hospital OPD (Out-Patient Department) with your NIC. No appointment needed for OPD. Major hospitals: National Hospital Colombo, Teaching Hospitals in Kandy, Peradeniya, Karapitiya (Galle), Jaffna. Emergency: 110 or 1990 (Suwa Seriya Ambulance)."
+      },
+      {
+        "q": "How to get a medical certificate?",
+        "a": "Visit any government hospital or registered medical practitioner. For fitness certificates (employment, driving), visit the OPD with NIC. Fee: LKR 200-500 at government hospitals. Private clinics charge more."
+      }
+    ]
+  },
+  {
+    "category": "Samurdhi and Social Welfare",
+    "keywords": ["samurdhi", "welfare", "subsidy", "allowance", "pension", "senior citizen", "aswesuma"],
+    "qa": [
+      {
+        "q": "What is the Samurdhi/Aswesuma program?",
+        "a": "Aswesuma (formerly Samurdhi) is the government's social welfare program providing monthly cash transfers to low-income families. Benefits range from LKR 2,500 to LKR 15,000 per month based on vulnerability. Apply at your Divisional Secretariat with NIC, income proof, and family details. The Grama Niladhari must certify the application."
+      },
+      {
+        "q": "How to apply for government pension?",
+        "a": "Government employees are eligible for pensions after retirement (age 55-60). Apply through the Department of Pensions, Maligawatta, Colombo 10. Required: service record, NIC, retirement letter. Website: www.pensions.gov.lk. Private sector: EPF/ETF through the Central Bank and Labor Department."
+      },
+      {
+        "q": "What is EPF and ETF?",
+        "a": "EPF (Employees' Provident Fund): 8% employee + 12% employer contribution from salary. Managed by Central Bank. ETF (Employees' Trust Fund): 3% employer contribution. Managed by ETF Board. Claim EPF after leaving employment or at age 55 (women) / 60 (men). Apply at Central Bank or EPF/ETF regional offices."
+      }
+    ]
+  },
+  {
+    "category": "Business Registration",
+    "keywords": ["business", "company", "register business", "sole proprietorship", "partnership", "bod", "registration"],
+    "qa": [
+      {
+        "q": "How to register a business?",
+        "a": "Options: 1) Sole Proprietorship - register at the Divisional Secretariat (LKR 500). 2) Partnership - register at the Registrar of Companies. 3) Private Limited Company - register at the Department of Registrar of Companies, No. 400, D.R. Wijewardena Mawatha, Colombo 10. Fee: LKR 12,000+. Online: www.drc.gov.lk."
+      },
+      {
+        "q": "How to get a business name registration?",
+        "a": "Register at the Provincial Department of Registrar of Companies or online at www.drc.gov.lk. Required: proposed name (checked for availability), NIC, address proof, nature of business. Fee: LKR 500-1,000. Processing: 3-5 working days."
+      }
+    ]
+  },
+  {
+    "category": "Electricity and Utilities",
+    "keywords": ["electricity", "water", "ceb", "leco", "water board", "utility", "bill"],
+    "qa": [
+      {
+        "q": "How to get a new electricity connection?",
+        "a": "Apply at the nearest CEB (Ceylon Electricity Board) or LECO office. Required: NIC, deed/rental agreement, house wiring completion certificate from a licensed electrician. Fee: varies by connection type (LKR 5,000-20,000). CEB: www.ceb.lk. LECO: www.leco.lk."
+      },
+      {
+        "q": "How to get a water connection?",
+        "a": "Apply at the National Water Supply and Drainage Board (NWSDB). Required: NIC, deed/rental agreement, approval from local authority. Fee: approximately LKR 15,000-25,000. Website: www.waterboard.lk. Tel: +94 11 2636 449."
+      }
+    ]
+  },
+  {
+    "category": "Transport",
+    "keywords": ["bus", "train", "transport", "railway", "sltb", "ctb", "vehicle registration"],
+    "qa": [
+      {
+        "q": "How to register a vehicle?",
+        "a": "Register at the Department of Motor Traffic (DMT). Required: customs clearance, invoice, insurance certificate, NIC, emission test report. Fee varies by vehicle type. Address: No. 341, Elvitigala Mawatha, Colombo 05. Website: www.motortraffic.gov.lk."
+      },
+      {
+        "q": "How to book train tickets?",
+        "a": "Book at any railway station counter or online at www.railway.gov.lk or through the Expo Rail booking system. Sri Lanka Railways operates lines to Kandy, Badulla, Jaffna, Matara, Trincomalee, and Batticaloa. For reservations call: +94 11 4 600 111."
+      }
+    ]
+  },
+  {
+    "category": "Visa and Foreign Affairs",
+    "keywords": ["visa", "eta", "foreign", "embassy", "travel", "abroad", "migration"],
+    "qa": [
+      {
+        "q": "How to get a Sri Lanka visa/ETA?",
+        "a": "Foreign nationals can apply for an Electronic Travel Authorization (ETA) at www.eta.gov.lk. Types: Tourist (30 days, extendable to 6 months), Business, Transit. Fee: USD 50 for most nationalities. SAARC nationals: USD 25. Apply online before arrival."
+      },
+      {
+        "q": "How to get foreign employment approval?",
+        "a": "Register with the Sri Lanka Bureau of Foreign Employment (SLBFE), No. 234, Denzil Kobbekaduwa Mawatha, Colombo 07. Required: passport, NIC, job offer letter, medical fitness certificate. Website: www.slbfe.lk. Tel: +94 11 2864 409. Registration is mandatory before going abroad for work."
+      }
+    ]
+  },
+  {
+    "category": "Complaints and Government Info",
+    "keywords": ["complaint", "government information", "hotline", "ombudsman", "rtie", "right to information"],
+    "qa": [
+      {
+        "q": "How to file a complaint against a government officer?",
+        "a": "Options: 1) Call 1919 (Presidential Complaints Hotline). 2) Visit www.presidentialcomplaints.gov.lk. 3) Complain to the Ombudsman (Parliamentary Commissioner for Administration). 4) File RTI request under the Right to Information Act. 5) Contact the Bribery Commission: +94 11 2596 360."
+      },
+      {
+        "q": "What is the Right to Information (RTI)?",
+        "a": "Under the RTI Act No. 12 of 2016, any citizen can request information from public authorities. Apply to the Information Officer of the relevant government body. Fee: LKR 50 for application. Response within 14 days. Appeal to the RTI Commission if denied. Website: www.rtic.gov.lk."
+      },
+      {
+        "q": "What is the Government Information Center?",
+        "a": "Call 1919 for any government service information. Available in Sinhala, Tamil, and English. Hours: 24/7. Services: information on all government services, complaint registration, directing to relevant offices."
+      }
+    ]
+  }
+]

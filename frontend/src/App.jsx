@@ -16,6 +16,7 @@ import IssueManagement from './pages/IssueManagement';
 import IssueDetail from './pages/IssueDetailTemp';
 import PublicIssues from './pages/PublicIssues';
 import ProtectedRoute from './components/ProtectedRoute';
+import ChatBot from './components/ChatBot';
 
 function App() {
   return (
@@ -64,6 +65,7 @@ function App() {
                 </Routes>
               </main>
               <Footer />
+              <ChatBot />
             </div>
           </Router>
         </ToastProvider>

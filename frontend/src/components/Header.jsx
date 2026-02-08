@@ -59,8 +59,12 @@ const Header = () => {
           {/* Logo */}
           <div className="flex items-center">
             <Link to="/" className="flex items-center group">
-              <div className="bg-gradient-to-r from-orange-500 to-orange-600 rounded-xl p-3 shadow-lg group-hover:shadow-xl transition-all duration-300 group-hover:scale-105">
-                <span className="text-white font-bold text-xl">CR</span>
+              <div className="rounded-xl p-2 shadow-lg group-hover:shadow-xl transition-all duration-300 group-hover:scale-105 bg-white/90">
+                <img
+                  src="/pngegg.png"
+                  alt="Sri Lanka emblem"
+                  className="h-10 w-10 object-contain"
+                />
               </div>
               <div className="ml-4">
                 <h1 className="text-2xl font-bold text-white">
