@@ -4,11 +4,11 @@ A comprehensive civic issue management and resolution platform enabling citizens
 
 ## Team Members
 
-- **[Amayuru Pramodaya]**
-- **[Yasiru Ravidith]** 
-- **[Kevin Thulnith]** 
-- **[Lahiru De Silva]** 
-- **[Kimuthu Gajanayake]** 
+- **Amayuru Pramodaya**
+- **Yasiru Ravidith** 
+- **Kevin Thulnith** 
+- **Lahiru De Silva** 
+- **Kimuthu Gajanayake** 
 
 ## Tech Stack
 
